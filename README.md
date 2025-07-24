@@ -42,7 +42,7 @@ Here's a walkthrough of implemented user stories:
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
-https://www.loom.com/share/8f5edb8d79b24cc39605cca1640f8a22.gif
+https://www.loom.com/share/65490fac2b7b47e0bf4848bd677511c0.gif
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
